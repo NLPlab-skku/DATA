@@ -1,4 +1,4 @@
-# Graph Dataset
+# Music Knowledge Graph Dataset
 
 - 음악 추천 사이트에서 크롤링한 음악 도메인 그래프
 - 개인화 정보 그래프

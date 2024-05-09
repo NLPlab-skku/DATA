@@ -1,4 +1,4 @@
-# Graph Dataset
+# Music Knowledge Graph Dataset
 
 - 개인화 정보 그래프
 
