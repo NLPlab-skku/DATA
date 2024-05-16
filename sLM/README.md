@@ -4,6 +4,7 @@ NLPLAB에서 구축한 sLM 학습을 위한 Chain-of-Thought 기반의 데이터
 
 
 ## 구축내용
+1. COT.jsonl - KAIST에서 발표한 [CoT-Collection](https://github.com/kaistAI/CoT-Collection의 한국어 버전 데이터셋
 |제목|내용|위치|
 |------|---|---|
 |**CoT**|KAIST에서 발표한 [CoT-Collection](https://github.com/kaistAI/CoT-Collection의 한국어 버전 데이터셋|./Music_Knowledge_Graph_Grounded_Dataset|
