@@ -6,7 +6,7 @@ NLPLAB에서 구축한 한국어 기반의 대화 데이터셋입니다.
 |제목|내용|위치|
 |------|---|---|
 |**Music**|음악 도메인 대화 데이터셋|./Music_Knowledge_Graph_Grounded_Dataset|
-|**Music Commonsense**|음악 도메인 대화에 일상 대화가 포함된 데이터셋|./Music_Commonsens_Knowledge_Graph_Grounded_Dataset|
+|**Music Commonsense**|음악 도메인 대화에 일상 대화가 포함된 데이터셋|./Music_Commonsense_Knowledge_Graph_Grounded_Dataset|
 |**Manual**|매뉴얼 기반 대화 데이터셋|./Manual_Grounded_Dialogue_Dataset|
   
 ## 데이터 통계
