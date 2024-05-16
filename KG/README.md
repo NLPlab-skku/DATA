@@ -1,4 +1,4 @@
-# Knowledge Graph Dataset
+# 지식 그래프 데이터셋
 
 - NLPLAB에서 구축한 지식 그래프 기반 데이터셋
 
