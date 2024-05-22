@@ -26,7 +26,7 @@ NLPLAB에서 구축한 sLM 학습을 위한 Chain-of-Thought 기반의 데이터
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow">**Train**</td>
+    <td class="tg-c3ow">Train</td>
     <td class="tg-c3ow">77,200</td>
     <td class="tg-c3ow">6,642</td>
     <td class="tg-c3ow">991</td>
