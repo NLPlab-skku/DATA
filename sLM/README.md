@@ -20,27 +20,3 @@ NLPLAB에서 구축한 sLM 학습을 위한 Chain-of-Thought 기반의 데이터
 |**EverythingLM**|991|
 |**Law**|13,702|
 |**Number**|9,580|
-
-## 데이터 통계
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-c3ow"></th>
-    <th class="tg-c3ow">CoT</th>
-    <th class="tg-c3ow">Dolly</th>
-    <th class="tg-c3ow">EverythingLM</th>
-    <th class="tg-c3ow">Law</th>
-    <th class="tg-c3ow">Number</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-c3ow">Train</td>
-    <td class="tg-c3ow">77,200</td>
-    <td class="tg-c3ow">6,642</td>
-    <td class="tg-c3ow">991</td>
-    <td class="tg-c3ow">13,702</td>
-    <td class="tg-c3ow">9,580</td>
-  </tr>
-</tbody>
-</table>
