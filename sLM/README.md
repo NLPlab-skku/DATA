@@ -13,6 +13,15 @@ NLPLAB에서 구축한 sLM 학습을 위한 Chain-of-Thought 기반의 데이터
 |**Number**|AI허브의 [숫자연산 기계독해 데이터셋](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71568)을 기반으로 ChatGPT API를 통해 rationale를 생성하여 만든 숫자연산 데이터셋|./number.jsonl|
 
 ## 데이터 통계
+|데이터셋|개수|
+|------|---|
+|**CoT**|77,200|
+|**Dolly**|6,642|
+|**EverythingLM**|991|
+|**Law**|13,702|
+|**Number**|9,580|
+
+## 데이터 통계
 <table class="tg">
 <thead>
   <tr>
