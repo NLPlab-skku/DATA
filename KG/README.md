@@ -10,3 +10,8 @@ NLPLAB에서 구축한 지식 그래프 기반 데이터셋
 |**Personal**|개인화 외부지식 그래프 데이터셋|./Music_Personal_Graph_Dataset|
 
 ## 데이터 통계
+|데이터셋|개수|
+|------|---|
+|**Commonsense**|226,823(Triples)|
+|**Domain**|7,961(Triples)|
+|**Personal**|100(People)|
